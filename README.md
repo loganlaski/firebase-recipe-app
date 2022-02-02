@@ -1,3 +1,3 @@
 # Firebase Recipe App
 
-[Demo](https://github.com/loganlaski)
+[Demo](https://loganlaski.github.io/firebase-recipe-app/)
