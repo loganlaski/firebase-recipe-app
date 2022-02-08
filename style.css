@@ -8,19 +8,15 @@ html {
 } */
 
 /* Navigation */
-/* nav,
-#nav-area {
-  background-color: rgb(250, 110, 50);
-}
-.nav-logo {
-  font-family: "Spartan", sans-serif;
-  font-size: 24px;
+/* .nav-logo {
+  font-family: 'Spartan', sans-serif;
+  font-size: 12px;
   font-weight: 500;
 } */
 
 /* Home */
 /* body {
-  background-image: url("/main-bg.png");
+  background-image: url('/main-bg.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
